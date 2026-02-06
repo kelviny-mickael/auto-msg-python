@@ -22,8 +22,8 @@ O arquivo `dados.xlsx` deve ter duas colunas:
 
 | Numero    | Mensagem            |
 | --------- | ------------------- |
-| 992932101 | "Sua mensagem aqui" |
-| 987551024 | "Sua mensagem aqui" |
+| 123456789 | "Sua mensagem aqui" |
+| 123456789 | "Sua mensagem aqui" |
 | ...       | ...                 |
 
 > Observação: A coluna `Numero` deve conter apenas os números do celular sem DDD ou símbolos. O DDD `81` e o código do Brasil `+55` são adicionados pelo script.
